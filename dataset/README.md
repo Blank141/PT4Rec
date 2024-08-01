@@ -7,7 +7,7 @@ Douban Movie Review Dataset:
 Link: https://pan.baidu.com/s/1hrJP6rq#list/path=%2F
 Description: The Douban movie review dataset contains user ratings and reviews for movies, which is used to build a user-movie interaction model.
 
-MOvielens Dataset:
+Movielens Dataset:
 Link: https://grouplens.org/datasets/movielens
 Description: The movie rating dataset contains user ratings for movies, which is used to evaluate the performance of recommendation systems.
 
@@ -31,5 +31,6 @@ dataset/
 │   ├── split.py
 ├── ml-25M
 │   ├── split.py
+├── README.md
 ```
 
