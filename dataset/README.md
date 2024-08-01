@@ -14,8 +14,6 @@ Description: The ML-1M movie rating dataset contains user ratings for movies, wh
 Gowalla Dataset:
 Link: https://github.com/kuandeng/LightGCN/tree/master/Data/gowalla
 Description: The Gowalla location check-in dataset contains user check-in information at locations in the Gowalla social network, which is used for location recommendation and social network analysis.
-Dataset Download
-To facilitate readers in obtaining these datasets, we provide the following download links:
 
 
 ## Dataset Usage Instructions
