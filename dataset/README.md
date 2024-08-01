@@ -9,7 +9,7 @@ Description: The Douban movie review dataset contains user ratings and reviews f
 
 MOvielens Dataset:
 Link: https://grouplens.org/datasets/movielens
-Description: The ML-1M movie rating dataset contains user ratings for movies, which is used to evaluate the performance of recommendation systems.
+Description: The movie rating dataset contains user ratings for movies, which is used to evaluate the performance of recommendation systems.
 
 Gowalla Dataset:
 Link: https://github.com/kuandeng/LightGCN/tree/master/Data/gowalla
@@ -28,6 +28,8 @@ dataset/
 ├── gowalla
 │   ├── process.py
 ├── ml-1M
+│   ├── split.py
+├── ml-25M
 │   ├── split.py
 ```
 
