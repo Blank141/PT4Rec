@@ -1,5 +1,5 @@
 # PT4Rec
-PT4Rec: A Universal Prompt-Tuning Framework for Graph Contrastive Learning-Based Recommendations
+## PT4Rec: A Universal Prompt-Tuning Framework for Graph Contrastive Learning-Based Recommendations (ACML2024 & Machine Learning Journal)
 ![image](https://github.com/Blank141/PT4Rec/blob/main/fig1_1.png)
 ## Requirements
 ```
